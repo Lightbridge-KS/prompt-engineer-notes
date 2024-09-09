@@ -13,6 +13,7 @@ book:
       chapters: 
         - "real-world/01_prompting_recap.ipynb"
         - "real-world/02_medical_prompt.ipynb"
+        - "real-world/03_prompt_engineering.ipynb"
 
 
 
@@ -21,6 +22,7 @@ bibliography: references.bib
 format:
   html:
     theme: cosmo
+    toc-depth: 4
 
 execute: 
   freeze: auto

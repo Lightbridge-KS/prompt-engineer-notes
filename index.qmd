@@ -3,3 +3,7 @@
 ::: {.callout-note appearance="default"}
 This is my note about prompt engineering
 :::
+
+### Material
+
+- [Anthropic Courses](https://github.com/anthropics/courses)
