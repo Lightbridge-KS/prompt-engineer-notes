@@ -12,6 +12,7 @@ book:
     - part: Real World (Anthropic)
       chapters: 
         - "real-world/01_prompting_recap.ipynb"
+        - "real-world/02_medical_prompt.ipynb"
 
 
 
