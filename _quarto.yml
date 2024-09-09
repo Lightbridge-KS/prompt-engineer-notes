@@ -14,6 +14,8 @@ book:
         - "real-world/01_prompting_recap.ipynb"
         - "real-world/02_medical_prompt.ipynb"
         - "real-world/03_prompt_engineering.ipynb"
+        - "real-world/04_call_summarizer.ipynb"
+        - "real-world/05_customer_support_ai.ipynb"
 
 
 
