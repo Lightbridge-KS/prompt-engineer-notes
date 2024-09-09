@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 6566fd71-ac97-4c3d-9356-2a28908d3947
+      url: 'https://prompt-engineer-notes-lightbridge.netlify.app'

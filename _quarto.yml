@@ -1,0 +1,25 @@
+project:
+  type: book
+
+book:
+  title: "Prompt Engineering Notes"
+  author: "Kittipos Sirivongrungson"
+  date: "9/9/2024"
+  chapters:
+    - index.qmd
+    - part: Real World (Anthropic)
+      chapters: 
+        - "real-world/01_prompting_recap.ipynb"
+
+
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+
+execute: 
+  freeze: auto
+
+
