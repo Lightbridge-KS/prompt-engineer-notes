@@ -5,6 +5,8 @@ book:
   title: "Prompt Engineering Notes"
   author: "Kittipos Sirivongrungson"
   date: "9/9/2024"
+  repo-url: https://github.com/Lightbridge-KS/prompt-engineer-notes
+  site-url: https://prompt-engineer-notes-lightbridge.netlify.app
   chapters:
     - index.qmd
     - part: Real World (Anthropic)
